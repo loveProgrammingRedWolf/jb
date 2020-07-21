@@ -6,8 +6,8 @@ import * as Vue from 'vue';
 
 const JB = {
   '无坚不摧模式': {
-    React,
-    ReactDOM
+    '无坚': React,
+    '不摧': ReactDOM
   },
   '续航模式': Angular,
   '战神模式': Jquery,
