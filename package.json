@@ -1,0 +1,15 @@
+{
+  "name": "jb",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": "https://github.com/loveProgrammingRedWolf/jb.git",
+  "author": "redWolf <853869602@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.8.0",
+    "jquery": "^3.5.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "vue": "^2.6.11"
+  }
+}
